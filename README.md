@@ -9,6 +9,7 @@
 - I’m currently learning about networking and new C# features mainly.
 - I'm currently learning at ELTE University in Hungary.
 - I’m currently collaborating on [Mount and Blade 2 Bannerlord Coop Mod](https://github.com/Bannerlord-Coop-Team/BannerlordCoop)
+- My main project right now: [TWNetwork] (https://github.com/WakooMan/TWNetwork)
 - E-mail: magyar.viktor.2000@gmail.com
 - Pronouns: He/His
 - Fun fact: I love listening to songs while I am coding and I want to start making games in Unity.
